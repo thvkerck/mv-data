@@ -33,5 +33,21 @@
 				}
 			]
 		}
+	],
+	"people": [
+		{
+			"id": "?",
+			"recipient": {
+				"name": "Recipient az",
+				"address": "Recipient address"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "\n\t\t\t\t\t\tDescription of service provided\n\t\t\t\t\t",
+					"amount": "Amount"
+				}
+			]
+		}
 	]
 }
