@@ -22,12 +22,9 @@
 					"maxAge": "20",
 					"message": [
 						{
-							"bericht": "tof"
-						},
-						{
-							"by": "Thpùas\n"
-						},
-						{}
+							"by": "Thomas",
+							"bericht": "Tof feestje"
+						}
 					]
 				}
 			],
