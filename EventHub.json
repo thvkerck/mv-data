@@ -22,9 +22,12 @@
 					"maxAge": "20",
 					"message": [
 						{
-							"bericht": "kkr feestje",
-							"by": "Thomas"
-						}
+							"bericht": "kkr feestje"
+						},
+						{
+							"by": "Thpùas\n"
+						},
+						{}
 					]
 				}
 			],
