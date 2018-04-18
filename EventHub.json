@@ -22,7 +22,8 @@
 					"maxAge": "20",
 					"message": [
 						{
-							"bericht": "goed feestje"
+							"bericht": "goed feestje",
+							"by": "Thomas"
 						}
 					]
 				}
