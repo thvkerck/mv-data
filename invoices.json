@@ -1,0 +1,30 @@
+{
+	"companyLogo": "http://lea.verou.me/logo.svg",
+	"companyName": "Lea Verou",
+	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
+	"companyURL": "http://lea.verou.me",
+	"companyEmail": "lea@verou.me",
+	"invoice": [
+		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
+			"id": "?",
+			"recipient": {
+				"name": "Recipient name",
+				"address": "Recipient address"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "\n\t\t\t\t\t\tDescription of service provided\n\t\t\t\t\t",
+					"amount": "Amount"
+				}
+			]
+		}
+	]
+}
