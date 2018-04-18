@@ -13,6 +13,13 @@
 			]
 		},
 		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "?",
 			"recipient": {
 				"name": "Recipient name",
