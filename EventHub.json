@@ -22,7 +22,7 @@
 					"maxAge": "20",
 					"message": [
 						{
-							"bericht": "kkr feestje"
+							"bericht": "tof"
 						},
 						{
 							"by": "Thpùas\n"
@@ -31,7 +31,8 @@
 					]
 				}
 			],
-			"birthday": "1998-08-20"
+			"birthday": "1998-08-20",
+			"email": "thomas.vankerckhoven@outlook.com"
 		}
 	]
 }
