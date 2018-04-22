@@ -15,15 +15,15 @@
 			],
 			"event": [
 				{
-					"title": "Ok",
-					"starttime": "2016-03-15",
-					"endtime": "2016-03-15",
+					"title": "BBQ",
+					"starttime": "2018-04-23",
+					"endtime": "2018-04-23",
 					"minage": "0",
-					"maxAge": "20",
+					"maxAge": "99",
 					"message": [
 						{
 							"by": "Thomas",
-							"bericht": "Tof feestje"
+							"bericht": "Moet ik nog extra vlees meebrengen?"
 						}
 					]
 				}
